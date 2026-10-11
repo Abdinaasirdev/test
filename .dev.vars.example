@@ -1,0 +1,3 @@
+# For owner enrollment in the LOCAL development environment only.
+# Disable after enrollment; hosted setup uses Sites runtime variables.
+SOPIE_SETUP_ENABLED=true
