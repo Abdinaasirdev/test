@@ -1,0 +1,1 @@
+export default function NotFound(){return <main className="not-found"><a className="logo" href="/">SOPIE</a><p className="eyebrow">404 / A LITTLE DETOUR</p><h1>Let’s find your way<br/>back to elegance.</h1><p>This page isn’t in our collection.</p><a className="button" href="/shop">Explore the collection →</a></main>;}
